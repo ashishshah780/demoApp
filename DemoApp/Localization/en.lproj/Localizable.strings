@@ -1,0 +1,17 @@
+/* 
+  Localizable.strings
+  DemoApp
+
+  Created by Ashish Shah on 2/13/22.
+  
+*/
+
+// Common Alert Strings
+"ok"                                            = "Ok";
+"error"                                         = "Error!";
+"cancel"                                        = "Cancel";
+"alert"                                         = "Alert";
+
+// No Result Strings
+"loginErrorMessage"                             = "Error in email Id or Password";
+"noResultFoundMessage"                          = "No result found";
